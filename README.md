@@ -9,6 +9,9 @@
 - No external dependencies required for basic functionality.
 
 ## Installation
+## Download the ZIP File
+You can download the app's source code as a ZIP file from [Google Drive](https://drive.google.com/file/d/1GzfGj2g4D5uLPal0uPPPM7ZaqKDq_QY1/view?usp=sharing).
+
  **Run the application**:
 Open and run, no installation needed.
 
