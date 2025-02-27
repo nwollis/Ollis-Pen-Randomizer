@@ -1,6 +1,6 @@
 # Ollis Pen Randomization
 
-**Ollis Pen Randomization** is a Python-based application designed for randomizing poultry research pens. It simplifies the process of assigning treatments to research pens in a randomized manner, ensuring unbiased and scientifically valid results. The application is standalone and can be run automatically without any additional configuration or external dependencies.
+**Ollis Pen Randomization** is a Python-based application designed for randomizing agricultural research pens. It simplifies the process of assigning treatments to research pens in a randomized manner, ensuring unbiased and scientifically valid results. The application is standalone and can be run automatically without any additional configuration or external dependencies.
 
 ## Features
 - Automatically randomizes pens in poultry research.
