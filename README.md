@@ -9,24 +9,8 @@
 - No external dependencies required for basic functionality.
 
 ## Installation
-
-1. **Clone the repository**:
-git clone https://github.com/nwollis/ollis-pen-randomizer.git
-
-3. **Navigate to the project directory**:
-cd ollis-pen-randomization
-
-4. **Ensure Python is installed**:
-Ollis Pen Randomization requires Python 3.6 or higher. You can check your Python version by running:
-python --version
-
-5. **Install dependencies (if any)**:
-This application is designed to run without any additional dependencies, but if you need to install any future updates or libraries, you can use `pip`:
-pip install -r requirements.txt
-
-6. **Run the application**:
-Once you’ve cloned the repository and installed Python, you can run the application with the following command:
-python ollis_pen_randomization.py
+ **Run the application**:
+Open and run, no installation needed.
 
 ## Usage
 
