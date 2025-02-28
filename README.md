@@ -10,12 +10,13 @@
 
 ## Installation
 ## Download the ZIP File
-You can download the app's source code as a ZIP file from [Google Drive](https://drive.google.com/file/d/1GzfGj2g4D5uLPal0uPPPM7ZaqKDq_QY1/view?usp=sharing).
+You can download the app as a ZIP file from  https://doi.org/10.5281/zenodo.14947609 or 
+[Google Drive](https://drive.google.com/file/d/1GzfGj2g4D5uLPal0uPPPM7ZaqKDq_QY1/view?usp=sharing).
 
  **Run the application**:
 Open and run, no installation needed.
 
-NOTE: this contains no malware, however it was done without any digital programmer stamp on it (making the computer think its malicious), so you will have to go to security and settings to tell your computer to open app anyway. Also this is a Mac Only program.
+NOTE: this contains no malware, however it was done without any developer credentials (making the computer think it is malicious), so you will have to attempt to open the app. close the window warning about malware and go to security and settings. scroll down and you will see the app and click "open app anyway" button beside the app. Also this is a Mac Only program.
 
 ## Usage
 
