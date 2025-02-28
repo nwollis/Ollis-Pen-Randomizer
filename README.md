@@ -15,6 +15,8 @@ You can download the app's source code as a ZIP file from [Google Drive](https:/
  **Run the application**:
 Open and run, no installation needed.
 
+NOTE: this contains no malware, however it was done without any digital programmer stamp on it (making the computer think its malicious), so you will have to go to security and settings to tell your computer to open app anyway. Also this is a Mac Only program.
+
 ## Usage
 
 Upon running the script, the program will automatically execute and generate a randomized assignment for your poultry pens. The results will be displayed in the console.
